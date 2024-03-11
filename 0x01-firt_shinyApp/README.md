@@ -1,0 +1,1 @@
+This shiny app takes inputs as first name and lastname/surname and automaticallyupdate the output (name) by combining both first and lastname with a seperation inbetween. Its is a reactive app so it has no submit button. the output(name) updates itself automatically if there are new inputs (first and last names)  
